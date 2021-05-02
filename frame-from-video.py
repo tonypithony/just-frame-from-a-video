@@ -72,7 +72,7 @@ currentframe = 0
         # break
 
 
-just_frame = 345678
+just_frame = 345678 # номер извлекаемого кадра
 
 while(currentframe <= just_frame):
 
